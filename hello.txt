@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 change done by masster
 Something
+=======
+Changed Something
+>>>>>>> branch1
